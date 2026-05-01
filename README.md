@@ -5,14 +5,13 @@ This project uses machine learning algorithms to classify books into categories 
 
 ## 🔹 Models Implemented
 - Logistic Regression
-- Decision Tree
-- Random Forest
-- K-Nearest Neighbors (KNN)
-- Support Vector Machine (SVM)
+- MultinomialNB
+- DummyClassifier
+- KNeighborsClassifier
 
 ## 🔹 Results & Insights
 - Logistic Regression achieved the highest accuracy
-- KNN provided the fastest execution time
+- The Multinomial NB takes less time
 
 ## 🔹 Technologies Used
 - Python
@@ -25,4 +24,4 @@ This project uses machine learning algorithms to classify books into categories 
 2. Run all cells step by step
 
 ## 🔹 Author
-**Nihala Fathima**
+**Fathima Nihala**
